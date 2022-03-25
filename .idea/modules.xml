@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Console-Store.iml" filepath="$PROJECT_DIR$/.idea/Console-Store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPFirstProjectPartTwo/CashRegisterFail/DIT043_Project_Template.iml" filepath="$PROJECT_DIR$/OOPFirstProjectPartTwo/CashRegisterFail/DIT043_Project_Template.iml" />
+    </modules>
+  </component>
+</project>
